@@ -1,0 +1,14 @@
+body{
+  padding: 25px;
+  text-align: center;
+  white-space: pre;
+  margin: 10px;
+}
+
+input {
+  width: 50px;
+}
+
+.drawClass {
+  margin: 0px;
+}
